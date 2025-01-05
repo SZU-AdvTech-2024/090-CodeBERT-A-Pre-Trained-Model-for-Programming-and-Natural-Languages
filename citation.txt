@@ -1,0 +1,7 @@
+@inproceedings{REPO090,
+    author = "Feng, Zhangyin and Guo, Daya and Tang, Duyu and Duan, Nan and Feng, Xiaocheng and Gong, Ming and Shou, Linjun and Qin, Bing and Liu, Ting and Jiang, Daxin and others",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    pages = "1536--1547",
+    title = "{CodeBERT: A Pre-Trained Model for Programming and Natural Languages}",
+    year = "2020"
+}
